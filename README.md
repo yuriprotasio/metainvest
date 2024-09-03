@@ -1,0 +1,2 @@
+# metainvest
+Manage your investments
